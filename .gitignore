@@ -1,0 +1,10 @@
+
+# Log file
+*.log
+
+# DataBase files
+*.db
+
+# Folders
+/target
+/bin

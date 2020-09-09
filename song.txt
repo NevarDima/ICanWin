@@ -2,3 +2,4 @@ First half of my favorite song
 finish my song
 
 First commit in feature branch
+Second commit in feature branch
